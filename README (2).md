@@ -1,5 +1,7 @@
 # 📊 HR Analytics Dashboard — Microsoft Fabric End-to-End Project
 
+> 🌐 **Live Portfolio:** [ganeshpanja18.github.io](https://ganeshpanja18.github.io)
+
 > A production-grade HR Analytics solution built entirely on **Microsoft Fabric** — covering data ingestion, transformation, lakehouse storage, semantic modeling, and interactive Power BI reporting. Designed to surface actionable workforce insights for HR teams and business leaders.
 
 <img width="959" height="476" alt="Dashboard Image" src="https://github.com/user-attachments/assets/33b72829-23e9-49fe-8ee3-f49e451ad71d" />
